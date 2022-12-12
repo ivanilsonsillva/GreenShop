@@ -1,0 +1,35 @@
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.fullScreen {
+    height: 100vh;
+}
+
+.loginStyle {
+    border-style: solid;
+    border-radius: 1rem;
+    border-width: 0.3px;
+    padding: 4rem;
+}
+
+.flex {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.linkStyle {
+    color: #00a470;
+    text-decoration: none;
+}
+.btnLogin{
+    background-color: #00a470 !important;
+    color: #e3e3e3 !important;
+}
+.btnLogin:hover{
+    background-color: #008f62 !important;
+    color: #e3e3e3 !important;
+}

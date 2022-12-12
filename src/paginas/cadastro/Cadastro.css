@@ -1,0 +1,22 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+.btnCancelar{
+    margin-right: 20px !important;
+    background-color: #fff !important;
+    color: #222 !important;
+}
+.btnCancelar:hover{
+    background-color: #e3e3e3 !important;
+}
+.btn-cadastrar{
+    background-color: #00a470 !important;
+    color: #e3e3e3 !important;
+}
+.btn-cadastrar:hover{
+    background-color: #008f62 !important;
+    color: #e3e3e3 !important;
+}
+.cadastroStyle {
+    padding: 4rem;
+}
